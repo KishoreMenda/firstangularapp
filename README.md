@@ -1,4 +1,4 @@
-# firstangularapp
+# homeapp
 
 This is a simple angular app for understading componenets, property binding, dependency injection, routing and data management.
 
